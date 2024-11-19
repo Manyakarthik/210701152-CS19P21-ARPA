@@ -1,3 +1,0 @@
-Move-Item -Path "first.txt" -Destination "REC"
-Move-Item -Path "second.txt" -Destination "REC"
-Move-Item -Path "third.txt" -Destination "REC"
